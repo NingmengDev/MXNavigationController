@@ -1,5 +1,5 @@
 # MXNavigationController
 导航栏控制器加入全屏Pop返回手势，代替系统自带的屏幕边缘返回手势。
 
-其中包含了MXNavigationController和MXTNavigationController两种导航栏控制器，分别使用了两种不同的方式实现Pop动画。
+其中包含了MXNavigationController和MXTNavigationController两种导航栏控制器，分别使用了两种不同的方式实现Pop动画。   
 MXNavigationController直接使用了系统自带的Pop动画，MXTNavigationController则使用了自定义的Pop动画，仅供学习之用。
